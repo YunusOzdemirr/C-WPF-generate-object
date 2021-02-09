@@ -1,0 +1,58 @@
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.exe.config
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.exe
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.pdb
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\MainWindow.g.cs
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\App.g.cs
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil_MarkupCompile.cache
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil_MarkupCompile.lref
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\MainWindow.baml
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.g.resources
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\_271118_NesneÜretSil.Properties.Resources.resources
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.csproj.GenerateResource.Cache
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.csproj.CoreCompileInputs.cache
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.exe
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.pdb
+D:\Uygulamalar\1046\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.csprojResolveAssemblyReference.cache
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.exe.config
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.exe
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.pdb
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.csprojAssemblyReference.cache
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\MainWindow.g.cs
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\App.g.cs
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil_MarkupCompile.cache
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil_MarkupCompile.lref
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\MainWindow.baml
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.g.resources
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\_271118_NesneÜretSil.Properties.Resources.resources
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.csproj.GenerateResource.cache
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.csproj.CoreCompileInputs.cache
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.exe
+C:\Users\Ares\Desktop\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.pdb
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.exe.config
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.exe
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.pdb
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.csprojAssemblyReference.cache
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\MainWindow.g.cs
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\App.g.cs
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil_MarkupCompile.cache
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil_MarkupCompile.lref
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\MainWindow.baml
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.g.resources
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\_271118_NesneÜretSil.Properties.Resources.resources
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.csproj.GenerateResource.cache
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.exe
+C:\Users\Ares\Desktop\Visual Studio Dosyaları\Yunus\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.pdb
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.exe.config
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.exe
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\bin\Debug\271118_NesneÜretSil.pdb
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\MainWindow.g.cs
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\App.g.cs
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil_MarkupCompile.cache
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil_MarkupCompile.lref
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\MainWindow.baml
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.g.resources
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\_271118_NesneÜretSil.Properties.Resources.resources
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.csproj.GenerateResource.cache
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.csproj.CoreCompileInputs.cache
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.exe
+C:\Users\Ares\Desktop\düzgün programlar\271118_NesneÜretSil\271118_NesneÜretSil\obj\Debug\271118_NesneÜretSil.pdb
