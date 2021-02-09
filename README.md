@@ -1,1 +1,1 @@
-# C-WPF-generate-object
+# C-WPF-Generate-Gbject
